@@ -19,7 +19,7 @@
     <tr>
       <td>
         <a href="README.md">
-          <img src="assets/img/ch.png" width="24" height="24" alt="English"/>
+          <img src="assets/img/uk.png" width="24" height="24" alt="English"/>
           <span>English</span>
         </a>
       </td>
