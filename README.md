@@ -1,4 +1,4 @@
-# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack developer Zheng ShiLu
+# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack developer from China
 
 ![Hi there, I'm a senior full stack developer](https://github.com/trusteddev1325/trusteddev1325/blob/master/assets/img/programmer-gbe684690e_1280.png)
 
@@ -11,7 +11,7 @@
     <tr>
       <td>
         <a href="README.ca.md">
-          <img src="assets/images/png/flags/catalonia.png" width="24" height="24" alt="Català"/>
+          <img src="assets/img/ch.png" width="24" height="24" alt="Chinese"/>
           <span>Chinese</span>
         </a>
       </td>
@@ -19,9 +19,8 @@
     <tr>
       <td>
         <a href="README.md">
-          <img src="assets/images/png/flags/uk.png" width="24" height="24" alt="English"/>
+          <img src="assets/img/ch.png" width="24" height="24" alt="English"/>
           <span>English</span>
-          <img src="assets/images/png/icons/pin.png" width="18" alt="You are here" />
         </a>
       </td>
     </tr>
