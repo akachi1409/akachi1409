@@ -1,4 +1,4 @@
-# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack developer from China
+# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack Blockchain developer 
 
 ![Hi there, I'm a senior full stack developer](https://github.com/trusteddev1325/trusteddev1325/blob/master/assets/img/programmer-gbe684690e_1280.png)
 
