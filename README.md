@@ -6,7 +6,7 @@
 
 -------
 
-<table align="right">
+<!-- <table align="right">
   <th>Also available in:</th>
     <tr>
       <td>
@@ -24,7 +24,7 @@
         </a>
       </td>
     </tr>
-</table>
+</table> -->
 
 👦🏻 **Pronouns**: He/Him
 
