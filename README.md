@@ -78,7 +78,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 5. ❗️ Opened issue [#104](https://github.com/gautamkrishnar/blog-post-workflow/issues/104) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) -->
 <!--END_SECTION:activity-->
 
-<details>
+<!-- <details>
   <summary><strong>Top repositories</strong></summary>
   <a href="https://github.com/trusteddev1325/ZillowScraper" target="__blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fbuireu&repo=fbuireu&theme=onedark&hide_border=true"
@@ -88,7 +88,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fbuireu&repo=biancafiore&theme=onedark&hide_border=true"
          alt="ethertest" />
   </a>
-</details>
+</details> -->
 
 <!-- <details>
   <summary><strong>Top Contributions & Streak</strong></summary>
