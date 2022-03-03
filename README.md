@@ -1,8 +1,8 @@
-# <img src="https://github.com/fbuireu/fbuireu/blob/master/assets/images/gifs/punk-horn.gif?raw=true" width="45px"> Hi there, I'm a senior Full-stack Blockchain developer 
+Hi there, I'm a senior Full-stack Blockchain developer 
 
 👦🏻 **Pronouns**: He/Him
 
-🔭 **I’m currently working on**: Defi projects for NFT marketplace and other Ecommerce sites (for real though, I love starting stuff from
+🔭 **I’m currently working on**: Defi, Dapp,  NFT marketplace and other Ecommerce sites (for real though, I love starting stuff from
 scratch and fresh ideas).
 
 🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Web3** and **React**.
@@ -93,72 +93,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-frame=true"
        alt="Ferran Buireu's Top GitHub Languages" />
 </details>     -->
-<!-- 
--------
 
-## ⌛ Check out my Wakatime stats
-<details>
-  <summary><strong>Weekly stats</strong></summary>
-
-  <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.92% 
-🌆 Daytime    110 commits    ████████████░░░░░░░░░░░░░   50.23% 
-🌃 Evening    61 commits     ███████░░░░░░░░░░░░░░░░░░   27.85% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-Tuesday      45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.55% 
-Wednesday    57 commits     ██████░░░░░░░░░░░░░░░░░░░   26.03% 
-Thursday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Friday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
-Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-Sunday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.07%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Dart                     23 hrs 27 mins      █████████████████████░░░░   86.43% 
-JavaScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.37% 
-SCSS                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
-
-🔥 Editors: 
-Android Studio           23 hrs 46 mins      ██████████████████████░░░   87.55% 
-WebStorm                 3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-IntelliJ                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-
-🐱‍💻 Projects: 
-Private Company Projects 23 hrs 46 mins      ██████████████████████░░░   87.55% 
-biancafiore              3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-fbuireu                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-💻 Operating System: 
-Mac                      23 hrs 46 mins      ██████████████████████░░░   87.55% 
-Windows                  3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45%
-
-```
-
-
- Last Updated on 28/10/2021
-<!--END_SECTION:waka-->
-</details>   -->
 
 <!-- <details>
   <summary><strong>Overall Languages</strong></summary>
@@ -168,25 +103,8 @@ Windows                  3 hrs 22 mins       ███░░░░░░░░�
 
 -------
 
-## 🎧 My exquisite music taste
-<sup><sub>(I don't have proof, but I have no doubt either)</sub></sup>
 
-![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=buireu)
-
--------
 
 If you've reached this point, you deserve to meet <span style="color: purple">Qwerty</span>, my contribution snake. Fed daily (almost):
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
 
-<!-- <details>
-  <summary>Wanna see more detailed charts?</summary>
-  <details>
-    <summary>Really, it's long. Are you sure?</summary>
-    <details>
-      <summary>Ok. This is the last. Here it goes</summary>
-      <img src="assets/images/svg/github-metrics.svg" alt="Detailed GitHub statistics" />
-    </details>        
-  </details>
-</details> -->
-
--------
