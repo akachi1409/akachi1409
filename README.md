@@ -2,7 +2,7 @@ Hi there, I'm a senior Full-stack Blockchain developer
 
 👦🏻 **Pronouns**: He/Him
 
-🔭 **I’m currently working on**: Defi, Dapp,  NFT marketplace and other Ecommerce sites (for real though, I love starting stuff from
+🔭 **I’m currently working on**: Defi, Dapp, NFT marketplace(Opensea, 0xv4), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO)  and other Ecommerce sites (for real though, I love starting stuff from
 scratch and fresh ideas).
 
 🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Web3** and **React**.
