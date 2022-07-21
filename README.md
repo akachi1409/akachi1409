@@ -21,7 +21,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
   <a href="https://github.com/akachi1409?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/akachi1409?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/akachi1409">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=naji2329&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=akachi1409style=for-the-badge"/></a>
 </p>
 
 <p align="center">
