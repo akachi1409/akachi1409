@@ -57,7 +57,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 
-
+</br>
 If you've reached this point, you deserve to meet <span style="color: purple">Qwerty</span>, my contribution snake. Fed daily (almost):
 ![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
 
