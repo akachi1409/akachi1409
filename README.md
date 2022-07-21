@@ -21,7 +21,28 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
   <a href="https://github.com/akachi1409?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/akachi1409?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/akachi1409">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=akachi1409&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=naji2329&style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akachi1409/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akachi1409/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=akachi1409&count_private=true&show_icons=true&custom_title=Naji's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+    />
+   </a>
+
+  <a href="https://github.com/akachi1409/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&theme=vision-friendly-dark" />
+  </a>  
 </p>
 
 
