@@ -45,6 +45,12 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
   </a>  
 </p>
 
+- 📫 How to reach me </br>
+    Email: trusteddev1325@gmail.com </br>
+    Skype: live:.cid.c324d93349182fc4 </br>
+    Discord: Akachi#0905 </br>
+    Telegram: https://t.me/Akachi1325
+    Whatsapp: 1 951 290 3811
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
