@@ -24,27 +24,6 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=akachi1409&style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/akachi1409/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akachi1409" src="https://github-readme-streak-stats.herokuapp.com/?user=akachi1409&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/akachi1409/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=akachi1409&count_private=true&show_icons=true&custom_title=Akachi's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
-    />
-   </a>
-
-  <a href="https://github.com/akachi1409/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachi1409&layout=compact&theme=vision-friendly-dark" />
-  </a>  
-</p>
-
 - 📫 How to reach me </br>
     Email: trusteddev1325@gmail.com </br>
     Skype: live:.cid.c324d93349182fc4 </br>
